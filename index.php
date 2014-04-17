@@ -30,8 +30,8 @@
 			<td> Exec Command? </td>
 		</tr>
 		<tr>
-			<td> Mandarim </td>
-			<td> 10.10.3.54 </td>
+			<td> server.domain.com </td>
+			<td> xxx.xxx.xxx.xxx </td>
 			<td align='center'> <input type='button'id='restartOK' value='OK'> </td>
 		</tr>
 	</table>
